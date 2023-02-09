@@ -1,0 +1,10 @@
+<?php
+	
+	$fb_page_id = "142621506278397";
+	$access_token = "169258147182435|-sx0JwR6hIF9eCdIZNbjLr8k40Y";
+
+	$albums_per_page = 12;
+	$pics_per_page = 16;
+
+	$show_all = TRUE;		//Set to TRUE to show Timelime Photos, Cover Photos & Profile Pictures
+?>

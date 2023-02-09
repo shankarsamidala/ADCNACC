@@ -1,0 +1,1636 @@
+[
+	{
+		"branchname": "Kakinada",
+		"branchid": 1,
+        "submenu": [             
+            {
+				"selectcount" : 10,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/1.Deloitte.pdf"
+			},
+			{
+				"selectcount" : 16,
+				"companyname" :  "L & T",
+				"imageurl"		:	"logos/L-and-T.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/2.L&T.pdf"
+			},
+			{
+				"selectcount" : 37,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/3.INFOSYS IT.pdf"
+			}, 
+			{
+				"selectcount" : 15,
+				"companyname" :  "Infosys BPO",
+				"imageurl"		:	"logos/infosys-bpo.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/4.INFOSYS BPO.pdf"
+			},
+			{
+				"selectcount" : 27,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/5.TCS.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/6.CSS CORP.pdf"
+			},
+			{
+				"selectcount" : 44,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/7.ILM.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "RCM",
+				"imageurl"		:	"logos/rcm.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/8.VISIONARY INFO TECH.pdf"
+			},
+			{
+				"selectcount" : 36,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/9.HETERO DRUGS.pdf"
+			},
+			{
+				"selectcount" : 16,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/10.INDIAN HEALTH.pdf"
+			},
+			{
+				"selectcount" : 67,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/11.DIVIS.pdf"
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/12.TECH MAHIINDRA.pdf"
+			},
+			{
+				"selectcount" : 116,
+				"companyname" :  "MPHASIS",
+				"imageurl"		:	"logos/mphasis.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/13.MPHASIS.pdf"
+			},
+			{
+				"selectcount" : 54,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/14.WIPRO.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "Genpact",
+				"imageurl"		:	"logos/genpact.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/15.GENPACT.pdf"
+			},
+			{
+				"selectcount" : 41,
+				"companyname" :  "LAURAUS",
+				"imageurl"		:	"logos/laurus.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/17.LARUS.pdf"
+			},
+			{
+				"selectcount" : 34,
+				"companyname" :  "DFC",
+				"imageurl"		:	"logos/deccan.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/18.DECAN FINE CHEMICALS.pdf"
+			}]
+	},
+	{
+		"branchname": "Women's Kakinada",
+		"branchid": 2,
+        "submenu": [             
+            {
+				"selectcount" : 5,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/DELOITTE-5.pdf"
+			},
+			{
+				"selectcount" : 9,
+				"companyname" :  "L & T",
+				"imageurl"		:	"logos/L-and-T.png",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/LTI-9.pdf"
+			},
+			{
+				"selectcount" : 53,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/INFOSYS-53.pdf"
+			}, 
+			{
+				"selectcount" : 60,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/ILM-60.pdf"
+			},
+			{
+				"selectcount" : 33,
+				"companyname" :  "Infosys BPS",
+				"imageurl"		:	"logos/infosys-bps.png",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/INFOSYS BPS-33.pdf"
+			},
+			{
+				"selectcount" : 74,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD/wipro.pdf"
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "Genpact",
+				"imageurl"		:	"logos/genpact.png",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/GENPACT.pdf"
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/TECH MAHINDRA-12.pdf"
+			},
+			{
+				"selectcount" : 22,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/DIVIS-22.pdf"
+			},
+			{
+				"selectcount" : 16,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/TCS-16.pdf"
+			},
+			{
+				"selectcount" : 178,
+				"companyname" :  "CONCENTRIX",
+				"imageurl"		:	"logos/concentrix.png",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/CONCENTRIX.pdf"
+			},
+			{
+				"selectcount" : 39,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/TCS-16.pdf"
+			},
+			{
+				"selectcount" : 161,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/NICE.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "RCM",
+				"imageurl"		:	"logos/rcm.png",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/RCM-6.pdf"
+			}, 
+			{
+				"selectcount" : 31,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/INDIAN HEALTH CARE-31.pdf"
+			},
+			{
+				"selectcount" : 74,
+				"companyname" :  "MEDICO HEALTHCARE",
+				"imageurl"		:	"logos/MHC.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/MEDICO HEALTHCARE.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/CSS CORP-7.pdf"
+			},
+			{
+				"selectcount" : 120,
+				"companyname" :  "MPHASIS",
+				"imageurl"		:	"logos/mphasis.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCKKD/MPHASIS-120.pdf"
+			}]
+	},
+	{
+		"branchname": "Rajahmundry",
+		"branchid": 3,
+        "submenu": [             
+            {
+				"selectcount" : 3,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/ADCRJY/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2019-20/ADCRJY/LTI.pdf"
+			},
+			{
+				"selectcount" : 14,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCRJY/INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 51,
+				"companyname" :  "Infosys BPM",
+				"imageurl"		:	"logos/infosys-bps.png",
+				"pdfpath"     : "downloads/2019-20/ADCRJY/INFOSYS BPM.pdf"
+			},
+			{
+				"selectcount" : 16,
+				"companyname" :  "Genpact",
+				"imageurl"		:	"logos/genpact.png",
+				"pdfpath"     : "downloads/2019-20/ADCRJY/GENPACT.pdf"
+			},
+			{
+				"selectcount" : 9,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/ADCRJY/TECHMAHINDRA.pdf"
+			},
+			{
+				"selectcount" : 43,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/ADCRJY/DIVIS.pdf"
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ADCRJY/TCS.pdf"
+			},
+			{
+				"selectcount" : 31,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2019-20/ADCRJY/hetro.pdf"
+			},
+			{
+				"selectcount" : 15,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCRJY/IHC.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCRJY/CSS.pdf"
+			}]
+	},
+	{
+		"branchname": "Surampalem Forensic",
+		"branchid": 16,
+        "submenu": [             
+            {
+				"selectcount" : 4,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCSRPM/INFOSYS.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/ADCSRPM/TECHMAHINDRA.pdf"
+			},
+			{
+				"selectcount" : 13,
+				"companyname" :  "MPHASIS",
+				"imageurl"		:	"logos/mphasis.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCSRPM/MPHASIS.pdf"
+			},
+			{
+				"selectcount" : 22,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/ADCSRPM/NICE.pdf"
+			}]
+	},
+	{
+		"branchname": "Gopalapatnam",
+		"branchid": 5,
+        "submenu": [             
+            {
+				"selectcount" : 3,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/LTI.pdf"
+			},
+			{
+				"selectcount" : 9,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 55,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/ILM.pdf"
+			},
+			{
+				"selectcount" : 117,
+				"companyname" :  "CONCENTRIX",
+				"imageurl"		:	"logos/concentrix.png",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/CONCENTRIX.pdf"
+			}, 
+			{
+				"selectcount" : 5,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/INDIAN HELTHCARE.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/TCS.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/DIVIS.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/TECH_MAHINDRA.pdf"
+			},
+			{
+				"selectcount" : 11,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/HETERO_DRUGS.pdf"
+			},
+			{
+				"selectcount" : 13,
+				"companyname" :  "24 7 AI",
+				"imageurl"		:	"logos/24-7-ai.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/(24)7_AI.pdf"
+			},
+			{
+				"selectcount" : 13,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/CSS CORP.pdf"
+			},
+			{
+				"selectcount" : 16,
+				"companyname" :  "MAITHRI CHEMICHALS",
+				"imageurl"		:	"logos/MAITHRI_CHEMICHALS.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/MAITHRI_CHEMICHALS.pdf"
+			},
+			{
+				"selectcount" : 9,
+				"companyname" :  "TEKWISSEN",
+				"imageurl"		:	"logos/TEKWISSEN.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/TEKWISSEN.pdf"
+			}]
+    },
+	{
+		"branchname": "Asilmetta",
+		"branchid": 6,
+        "submenu": [             
+            {
+				"selectcount" : 7,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - LTI.pdf"
+			},
+			{
+				"selectcount" : 25,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 81,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - ILM.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "Infosys BPO",
+				"imageurl"		:	"logos/infosys-bpo.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - INDIAN HEALTH CARE (BPO).pdf"
+			},
+			{
+				"selectcount" : 37,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - HETRO DRUGS.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - TECH MAHINDRA.pdf"
+			},
+			{
+				"selectcount" : 41,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - DIVIS LABORATORIES LTD.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "24 7 AI",
+				"imageurl"		:	"logos/24-7-ai.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/ASL -  ARTIFICIAL INTELLIGENCE.pdf"
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - TCS.pdf"
+			},
+			{
+				"selectcount" : 280,
+				"companyname" :  "CONCENTRIX",
+				"imageurl"		:	"logos/concentrix.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - CONCENTRIX.pdf"
+			},
+			{
+				"selectcount" : 211,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - NICE.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - CSS CORPORATION.pdf"
+			}, 
+			{
+				"selectcount" : 8,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - INDIAN HEALTH CARE (BPO).pdf"
+			},
+			{
+				"selectcount" : 120,
+				"companyname" :  "TEKWISSEN",
+				"imageurl"		:	"logos/TEKWISSEN.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - TEKWISSEN.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "Mylas Technologies",
+				"imageurl"		:	"logos/MYLAS.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL/ASL - MYLAS.pdf"
+			}]
+	},
+	{
+		"branchname": "Kakinada Computer Science",
+		"branchid": 23,
+        "submenu": [             
+            {
+				"selectcount" : 3,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/ASCSKKD/DELEOITE - BCA.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2019-20/ASCSKKD/LTI - BCA.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ASCSKKD/INFOSYS - BCA.pdf"
+			}, 
+			{
+				"selectcount" : 11,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ASCSKKD/ILM - BCA.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "Infosys BPO",
+				"imageurl"		:	"logos/infosys-bpo.png",
+				"pdfpath"     : "downloads/2019-20/ASCSKKD/INFOSYS BPO - BCA.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ASCSKKD/TCS - BCA.pdf"
+			},
+			{
+				"selectcount" : 9,
+				"companyname" :  "MPHASIS",
+				"imageurl"		:	"logos/mphasis.jpg",
+				"pdfpath"     : "downloads/2019-20/ASCSKKD/MPHASIS - BCA.pdf"
+			},
+			{
+				"selectcount" : 44,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/ASCSKKD/NICE - BCA.pdf"
+			}]
+    },
+	{
+		"branchname": "Kakinada Bschool",
+		"branchid": 9,
+        "submenu": [             
+            {
+				"selectcount" : 26,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD-BSCHOOL/TECH MAHINDRA - BBA.pdf"
+			},
+			{
+				"selectcount" : 23,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD-BSCHOOL/INFOSYS - BBA.pdf"
+			}, 
+			{
+				"selectcount" : 20,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD-BSCHOOL/ILM - BBA.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCKKD-BSCHOOL/AMS -CSS CORP.pdf"
+			},
+			{
+				"selectcount" : 28,
+				"companyname" :  "MPHASIS",
+				"imageurl"		:	"logos/mphasis.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCKKD-BSCHOOL/MPHASIS  -BBA.pdf"
+			},
+			{
+				"selectcount" : 31,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/ADCKKD-BSCHOOL/NICE - BBA.pdf"
+			}]
+	},
+	{
+		"branchname": "Women's Srikakulam",
+		"branchid": 22,
+        "submenu": [             
+            {
+				"selectcount" : 4,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/AWDCSKLM/WSKLM-DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2019-20/AWDCSKLM/WSKLM-LTI.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/AWDCSKLM/WSKLM-INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 46,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/AWDCSKLM/WSKL-ILM.pdf"
+			},
+			{
+				"selectcount" : 50,
+				"companyname" :  "CONCENTRIX",
+				"imageurl"		:	"logos/concentrix.png",
+				"pdfpath"     : "downloads/2019-20/AWDCSKLM/WSKLM-CONCENTRIX.pdf"
+			},
+			{
+				"selectcount" : 40,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/AWDCSKLM/WIPRO-WSKLM.pdf"
+			}, 
+			{
+				"selectcount" : 5,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCSKLM/WSKLM-INDIAN HEALTH CARE.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/AWDCSKLM/WSKLM-TCS.pdf"
+			},
+			{
+				"selectcount" : 15,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/AWDCSKLM/WSKLM-DIVIS.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/AWDCSKLM/WSKLM-TECHMAHINDRA.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "24 7 AI",
+				"imageurl"		:	"logos/24-7-ai.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCSKLM/WSKLM-24X7.pdf"
+			},
+			{
+				"selectcount" : 114,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/AWDCSKLM/WSKLM-NICE.pdf"
+			}]
+	},
+	{
+		"branchname": "Amalapuram",
+		"branchid": 10,
+        "submenu": [             
+            {
+				"selectcount" : 2,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/ADCAMP/AMP - DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 27,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/ADCAMP/AMP - WIPRO.pdf"
+			},
+			{
+				"selectcount" : 20,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCAMP/AMP - INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 7,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCAMP/AMP -ILM.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "Genpact",
+				"imageurl"		:	"logos/genpact.png",
+				"pdfpath"     : "downloads/2019-20/ADCAMP/AMP - GANPACT.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "L & T",
+				"imageurl"		:	"logos/L-and-T.png",
+				"pdfpath"     : "downloads/2019-20/ADCAMP/AMP - L&T.pdf"
+			},
+			{
+				"selectcount" : 9,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2019-20/ADCGPT/AMP - HETRO.pdf"
+			},
+			{
+				"selectcount" : 19,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/ADCAMP/AMP - DIVIS.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ADCAMP/AMP - TCS.pdf"
+			},
+			{
+				"selectcount" : 47,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/ADCAMP/AMP - NICE.pdf"
+			}, 
+			{
+				"selectcount" : 14,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCAMP/AMP - INDIAN HEALTH CARE.pdf"
+			},
+			{
+				"selectcount" : 17,
+				"companyname" :  "MPHASIS",
+				"imageurl"		:	"logos/mphasis.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCAMP/AMP - MPHASIS.pdf"
+			}]
+	},
+	{
+		"branchname": "Asilmetta Bschool",
+		"branchid": 17,
+        "submenu": [             
+            {
+				"selectcount" : 6,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL-BSCHOOL/BS - TECH MAHINDRA.pdf"
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "24 7 AI",
+				"imageurl"		:	"logos/24-7-ai.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCASL-BSCHOOL/BS - ARTIFICIAL INTELIGENCE.pdf"
+			}, 
+			{
+				"selectcount" : 37,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL-BSCHOOL/BS - ILM.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCASL-BSCHOOL/BS - CSS.pdf"
+			},
+			{
+				"selectcount" : 13,
+				"companyname" :  "TEKWISSEN",
+				"imageurl"		:	"logos/TEKWISSEN.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCASL-BSCHOOL/BS - TEKWISSEN.pdf"
+			},
+			{
+				"selectcount" : 85,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/ADCASL-BSCHOOL/BS - NICE.pdf"
+			}]
+	},
+	{
+		"branchname": "Bhimavaram",
+		"branchid": 11,
+        "submenu": [             
+            {
+				"selectcount" : 1,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/ADCBVM/BVR-DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2019-20/ADCBVM/BVR - LTI.pdf"
+			},
+			{
+				"selectcount" : 9,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCBVM/BVR - INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 22,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCBVM/BVR - ILM.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "Infosys BPO",
+				"imageurl"		:	"logos/infosys-bpo.png",
+				"pdfpath"     : "downloads/2019-20/ADCBVM/BVR - INFOSYS BPO.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/ADCBVM/BVR TECHMAHINDRA.pdf"
+			},
+			{
+				"selectcount" : 16,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/ADCBVM/WIPRO.pdf"
+			},
+			{
+				"selectcount" : 20,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/ADCBVM/BVR DIVIS LAB.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2019-20/ADCBVM/BVR - HETRO.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ADCBVM/BVR - TCS.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "RCM",
+				"imageurl"		:	"logos/rcm.png",
+				"pdfpath"     : "downloads/2019-20/ADCBVM/BVR-RCM.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCBVM/CSS CORP.pdf"
+			}, 
+			{
+				"selectcount" : 10,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCBVM/BVR - INDIAN H C.pdf"
+			},
+			{
+				"selectcount" : 14,
+				"companyname" :  "MPHASIS",
+				"imageurl"		:	"logos/mphasis.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCBVM/BVR-MPHASIS.pdf"
+			}]
+	},
+	{
+		"branchname": "Palakollu",
+		"branchid": 7,
+        "submenu": [
+			{
+				"selectcount" : 20,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/PKL - INFOSYS_IT.pdf"
+			}, 
+			{
+				"selectcount" : 14,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/PKL - ILM.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "Infosys BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/PKL -INFOSYS_BPM.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/TECH_MAHINDRA.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/TECH_MAHINDRA_BPO.pdf"
+			},
+			{
+				"selectcount" : 81,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/PKL - DIVIS.pdf"
+			},
+			{
+				"selectcount" : 20,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/PKL - HETRO_DRUGS.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/PKL TCS_IT.pdf"
+			},
+			{
+				"selectcount" : 30,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/WIPRO.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/TCS.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "ICCS",
+				"imageurl"		:	"",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/PKL - ICCS.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/PKL - CSS -CORP.pdf"
+			}, 
+			{
+				"selectcount" : 16,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/PKL - INDIAN_HEALTH_CARE.pdf"
+			},
+			{
+				"selectcount" : 36,
+				"companyname" :  "MPHASIS",
+				"imageurl"		:	"logos/mphasis.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/PKL - Mphasis.pdf"
+			},
+			{
+				"selectcount" : 51,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/NICE.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "INDIGO AIRLINES",
+				"imageurl"		:	"",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/PKL - INDIGO_AIRLINES.pdf"
+			},
+			{
+				"selectcount" : 11,
+				"companyname" :  "RSMIPL",
+				"imageurl"		:	"",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/RSMIPL.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "TIVENTEC",
+				"imageurl"		:	"",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/TIVENTEC.pdf"
+			}]
+	},
+	{
+		"branchname": "Eluru",
+		"branchid": 13,
+        "submenu": [
+			{
+				"selectcount" : 3,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCELR/ELR - INFOSYS.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2019-20/ADCELR/ELR - LTI.pdf"
+			},
+			{
+				"selectcount" : 9,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/ADCELR/ELR - WIPRO.pdf"
+			}, 
+			{
+				"selectcount" : 5,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCELR/ELR - ILM.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/ADCELR/ELR - DIVIS.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ADCELR/ELR - TCS.pdf"
+			},
+			{
+				"selectcount" : 18,
+				"companyname" :  "CONCENTRIX",
+				"imageurl"		:	"logos/concentrix.png",
+				"pdfpath"     : "downloads/2019-20/ADCELR/ELR-CONCENTRIX.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2019-20/ADCELR/ELR - HETRO DRUGS.pdf"
+			},
+			{
+				"selectcount" : 15,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/ADCELR/ELR - NICE.pdf"
+			}, 
+			{
+				"selectcount" : 3,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCELR/ELR - IHC.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "MPHASIS",
+				"imageurl"		:	"logos/mphasis.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCELR/ELR - BROAD BRIDGE.pdf"
+			}]
+	},
+	{
+		"branchname": "Gajuwaka",
+		"branchid": 8,
+        "submenu": [             
+            {
+				"selectcount" : 6,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/ADCGWK/GWK - DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 11,
+				"companyname" :  "L & T",
+				"imageurl"		:	"logos/L-and-T.png",
+				"pdfpath"     : "downloads/2019-20/ADCGWK/GWK - L&T.pdf"
+			},
+			{
+				"selectcount" : 49,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCGWK/GWK - INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 61,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCGWK/GWK - ILM.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/ADCGWK/GWK - TECHMAHINDRA.pdf"
+			},
+			{
+				"selectcount" : 92,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/ADCGWK/WIPRO-GWK.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2019-20/ADCGWK/GWK - HETRO DRUGS.pdf"
+			},
+			{
+				"selectcount" : 14,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/ADCGWK/GWK - DIVIS.pdf"
+			},
+			{
+				"selectcount" : 34,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ADCGWK/GWK - TCS.pdf"
+			},
+			{
+				"selectcount" : 277,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/ADCGWK/GWK - NICE.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCGWK/GWK - CSS CORP.pdf"
+			}, 
+			{
+				"selectcount" : 11,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCGWK/GWK - INDIAN HEALTH CARE.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "TEKWISSEN",
+				"imageurl"		:	"logos/TEKWISSEN.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCGWK/GWK - TEKWISSEN.pdf"
+			}]
+	},
+	{
+		"branchname": "Srikakulam",
+		"branchid": 21,
+        "submenu": [             
+            {
+				"selectcount" : 1,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 8,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/ILM.pdf"
+			},
+			{
+				"selectcount" : 11,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/WIPRO-ADCSKLM.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/HETRO.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "2",
+				"imageurl"		:	"logos/24-7-ai.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/Artificial Intelligence.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/TCS.pdf"
+			},
+			{
+				"selectcount" : 115,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/NICE.pdf"
+			}]
+	},
+	{
+		"branchname": "Tadepalligudem",
+		"branchid": 12,
+        "submenu": [             
+            {
+				"selectcount" : 1,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/ADCTPG/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 9,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCTPG/INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 32,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCTPG/ILM.pdf"
+			},
+			{
+				"selectcount" : 13,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/ADCTPG/WIPRO-TPG.pdf"
+			},
+			{
+				"selectcount" : 17,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2019-20/ADCTPG/HETRO.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "2",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2019-20/ADCTPG/LTI.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ADCTPG/TCS.pdf"
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCTPG/IHC.pdf"
+			}]
+	},
+	{
+		"branchname": "Tuni",
+		"branchid": 15,
+        "submenu": [
+			{
+				"selectcount" : 4,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCTUN/INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 6,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCTPG/ILM.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/ADCTPG/DIVIS.pdf"
+			},
+			{
+				"selectcount" : 13,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/ADCTPG/NICE.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "MPHASIS",
+				"imageurl"		:	"logos/mphasis.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCTPG/MPHASIS.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCTPG/IHC.pdf"
+			}]
+	},
+	{
+		"branchname": "Women's Gopalapatnam",
+		"branchid": 19,
+        "submenu": [             
+            {
+				"selectcount" : 4,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/AWDCGPT/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2019-20/AWDCGPT/LTI.pdf"
+			},
+			{
+				"selectcount" : 49,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/AWDCGPT/INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 53,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/AWDCGPT/ILM.pdf"
+			},
+			{
+				"selectcount" : 95,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/AWDCGPT/Wipro-WGPT.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2019-20/AWDCGPT/HETRO.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/AWDCGPT/TM BPS.pdf"
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/AWDCGPT/DIVIS.pdf"
+			},
+			{
+				"selectcount" : 21,
+				"companyname" :  "24 7 AI",
+				"imageurl"		:	"logos/24-7-ai.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCGPT/247.pdf"
+			},
+			{
+				"selectcount" : 16,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/AWDCGPT/TCS.pdf"
+			},
+			{
+				"selectcount" : 136,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/AWDCGPT/NICE.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCGPT/CSS.pdf"
+			}, 
+			{
+				"selectcount" : 19,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCGPT/IHC.pdf"
+			}]
+	},
+	{
+		"branchname": "Women's Asilmetta",
+		"branchid": 18,
+        "submenu": [             
+            {
+				"selectcount" : 5,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/AWDCASL/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2019-20/AWDCASL/LTI.pdf"
+			},
+			{
+				"selectcount" : 28,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/AWDCASL/INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 69,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/AWDCASL/ILM.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/AWDCASL/TECH MAHINDRA.pdf"
+			},
+			{
+				"selectcount" : 76,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/AWDCASL/AWDCASL-WIPRO.pdf"
+			},
+			{
+				"selectcount" : 15,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/AWDCASL/DIVIS.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "24 7 AI",
+				"imageurl"		:	"logos/24-7-ai.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCASL/247.pdf"
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/AWDCASL/TCS.pdf"
+			},
+			{
+				"selectcount" : 160,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/AWDCASL/NICE.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCASL/CSS CORP.pdf"
+			}, 
+			{
+				"selectcount" : 5,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCASL/IHC.pdf"
+			}]
+	},
+	{
+		"branchname": "Vizianagaram",
+		"branchid": 20,
+        "submenu": [             
+            {
+				"selectcount" : 1,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/ADCVZM/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2019-20/ADCVZM/LTI.pdf"
+			},
+			{
+				"selectcount" : 16,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCVZM/INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 51,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCVZM/ILM.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/ADCVZM/TECH MAHENDRA.pdf"
+			},
+			{
+				"selectcount" : 55,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/ADCVZM/WIPRO-VZM.pdf"
+			},
+			{
+				"selectcount" : 28,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2019-20/ADCVZM/HETERO.pdf"
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/ADCVZM/DIVIS.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "24 7 AI",
+				"imageurl"		:	"logos/24-7-ai.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCVZM/24X7.pdf"
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ADCVZM/TCS.pdf"
+			},
+			{
+				"selectcount" : 172,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/ADCVZM/NICE.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCVZM/CSS.pdf"
+			}, 
+			{
+				"selectcount" : 21,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCVZM/INDIAN HEALTH CARE.pdf"
+			}]
+	},
+	{
+		"branchname": "Women's Rajahmundry",
+		"branchid": 4,
+        "submenu": [             
+            {
+				"selectcount" : 5,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/AWDCRJY/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2019-20/AWDCRJY/LTI.pdf"
+			},
+			{
+				"selectcount" : 32,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/AWDCRJY/INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 53,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/AWDCRJY/ILM.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys-bpo.png",
+				"pdfpath"     : "downloads/2019-20/AWDCRJY/INFOSYS BPO.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2019-20/AWDCRJY/TECH MAHINDRA.pdf"
+			},
+			{
+				"selectcount" : 38,
+				"companyname" :  "DIVIS",
+				"imageurl"		:	"logos/divis.png",
+				"pdfpath"     : "downloads/2019-20/AWDCRJY/DIVIS.pdf"
+			},
+			{
+				"selectcount" : 11,
+				"companyname" :  "Genpact",
+				"imageurl"		:	"logos/genpact.png",
+				"pdfpath"     : "downloads/2019-20/AWDCRJY/GENPACT.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/AWDCRJY/TCS.pdf"
+			},
+			{
+				"selectcount" : 181,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/AWDCRJY/NICE.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCRJY/CSS.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "RCM",
+				"imageurl"		:	"logos/rcm.png",
+				"pdfpath"     : "downloads/2019-20/AWDCRJY/VISIONARY.pdf"
+			}, 
+			{
+				"selectcount" : 72,
+				"companyname" :  "MPHASIS",
+				"imageurl"		:	"logos/mphasis.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCRJY/MPHASIS.pdf"
+			}, 
+			{
+				"selectcount" : 11,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IHC.jpg",
+				"pdfpath"     : "downloads/2019-20/AWDCRJY/INDIAN HEALTH CARE.pdf"
+			}]
+	}
+]

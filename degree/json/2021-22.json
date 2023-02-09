@@ -1,0 +1,2842 @@
+[
+	{
+		"branchname": "Kakinada",
+		"branchid": 1,
+        "submenu": [             
+			{
+				"selectcount" : 385,
+				"companyname" :  "INFOSYS BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/1. INFOSYS BPM.pdf"
+			},
+			{
+				"selectcount" : 363,
+				"companyname" :  "WIPRO WILP",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/2. WIPRO WILP.pdf"
+			},
+			{
+				"selectcount" : 147,
+				"companyname" :  "TCS IT",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/3. TCS IT.pdf"
+			},
+			{
+				"selectcount" : 138,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/4. CAPGEMINI.pdf"
+			},
+			{
+				"selectcount" : 66,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/5. DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 51,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/6. ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 42,
+				"companyname" :  "L&T INFOTECH",
+				"imageurl"		:	"logos/L&TInfotech.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/7. LTI.pdf"
+			},
+			{
+				"selectcount" : 38,
+				"companyname" :  "ATOS SYNTEL",
+				"imageurl"		:	"logos/AtosSyntel.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/8. ATOS SYNTEL.pdf"  
+			},
+			{
+				"selectcount" : 31,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/9. IBM.pdf"
+			},
+			{
+				"selectcount" : 75,
+				"companyname" :  "TCS BPM",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/10. TCS BPM.pdf"
+			},
+			{
+				"selectcount" : 21,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/11. KPIT.pdf"  
+			},
+			{
+				"selectcount" : 22,
+				"companyname" :  "CTRLS+CLOUD",
+				"imageurl"		:	"logos/Ctrls+cloud.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/12.CTRLS-CLOUD.pdf"
+			},
+			{
+				"selectcount" : 14,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/13. ATOS GLOBAL.pdf"
+			},
+			{
+				"selectcount" : 13,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/14. CSS CROP.pdf"
+			},
+			{
+				"selectcount" : 13,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/15. VIRTUSA.pdf"  
+			},
+			{
+				"selectcount" : 11,
+				"companyname" :  "FRACTAL",
+				"imageurl"		:	"logos/fractial.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/16. FRACTAL.pdf"  
+			},
+			{
+				"selectcount" : 11,
+				"companyname" :  "L & T ECC",
+				"imageurl"		:	"logos/l-and-t-ecc.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/17. L & T.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "HEXAWARE",
+				"imageurl"		:	"logos/hexaware.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/18. HEXAWARE.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "ADP",
+				"imageurl"		:	"logos/ADP.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/19. ADP.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "MPHASIS",
+				"imageurl"		:	"logos/mphasis.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/21. MPHASIS.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "SANKEY SOLUTIONS",
+				"imageurl"		:	"logos/SankeySolutions.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/20.SS.pdf"
+			},
+			{
+				"selectcount" : 75,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/22.INFOSYS IT.pdf"
+			},
+			{
+				"selectcount" : 64,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IndianHealthCare.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/24. IHC.pdf"
+			},
+			{
+				"selectcount" : 38,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/25. ILM.pdf"
+			},
+			{
+				"selectcount" : 9,
+				"companyname" :  "MRF",
+				"imageurl"		:	"logos/mrf.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/26. MRF.pdf"
+			},
+			{
+				"selectcount" : 61,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/27. HD.pdf"
+			},
+			{
+				"selectcount" : 19,
+				"companyname" :  "MSN",
+				"imageurl"		:	"logos/msn.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/28. MSN.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "MEDHO SERVO",
+				"imageurl"		:	"logos/Medha-Servo.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/29. MS.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/30. SL.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "TEKWISSEN",
+				"imageurl"		:	"logos/TEKWISSEN.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/31. TEK.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "UNSCHOOL",
+				"imageurl"		:	"logos/unschool.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/32. US.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "ITC",
+				"imageurl"		:	"logos/Itc.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/33. ITC.pdf"  
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "BYJUS",
+				"imageurl"		:	"logos/byju.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/34. BYJUS.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "MIRACLE",
+				"imageurl"		:	"logos/Miracle-Software-Systems.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/35. MIR.pdf"  
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "BRIGHT CHAMPS",
+				"imageurl"		:	"logos/BrightChamps.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/36. BC.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "MIND TREE",
+				"imageurl"		:	"logos/mindtree.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/37. MT.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "TEENA LABS",
+				"imageurl"		:	"logos/teenalabs.png",
+				"pdfpath"     : "downloads/2021-22/ADCKKD/38. TL.pdf"  
+			}] 
+	},
+	{
+		"branchname": "Women's Kakinada",
+		"branchid": 2,
+        "submenu": [      	
+			{
+				"selectcount" : 2,
+				"companyname" :  "WIPRO SETUP",
+				"imageurl"		:	"logos/WiproSetup.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/WIPRO STEP UP.pdf"
+			},	
+            {
+				"selectcount" : 28,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/DELOITTE.pdf"  
+			},
+			{
+				"selectcount" : 108,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/TCS.pdf"
+			},
+			{
+				"selectcount" : 100,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/CAPGEMINI.pdf"
+			},
+			{
+				"selectcount" : 58,
+				"companyname" :  "TCS BPM",
+				"imageurl"		:	"logos/TcsBpm.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/TCS BPM.pdf"
+			},
+			{
+				"selectcount" : 44,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/ILM.pdf"
+			},
+			{
+				"selectcount" : 42,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/ATOSGLOBAL.pdf"
+			},
+			{
+				"selectcount" : 41,
+				"companyname" :  "L & T",
+				"imageurl"		:	"logos/L-and-T.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/L & T.pdf"
+			},
+			{
+				"selectcount" : 29,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/IBM.pdf"
+			},
+			{
+				"selectcount" : 20,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/SUTHERLAND.pdf"
+			},
+			{
+				"selectcount" : 19,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/CSS CORP.pdf"
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "TEKWISSEN",
+				"imageurl"		:	"logos/TEKWISSEN.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/TEKWISSEN.pdf"
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "ADP",
+				"imageurl"		:	"logos/ADP.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/ADP.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "UNSCHOOL",
+				"imageurl"		:	"logos/unschool.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD//UNSCHOOL.pdf"
+			},
+			{
+				"selectcount" : 202,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/WIPRO.pdf"
+			},
+			{
+				"selectcount" : 58,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "ATOS SYNTEL",
+				"imageurl"		:	"logos/AtosSyntel.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/ATOS SYNTEL.pdf"  
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "BRIGHT CHAMPS",
+				"imageurl"		:	"logos/BrightChamps.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/BRIGHT CHAMPS.pdf"  
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "FRACTAL",
+				"imageurl"		:	"logos/fractial.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/FRACTAL.pdf"  
+			},
+			{
+				"selectcount" : 15,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/KPIT.pdf"  
+			},
+			{
+				"selectcount" : 9,
+				"companyname" :  "MIRACLE",
+				"imageurl"		:	"logos/Miracle-Software-Systems.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/MIRACLE.pdf"  
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/VIRTUSA.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "INFOSYS IT",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/INFOSYS IT.pdf"
+			},
+			{
+				"selectcount" : 507,
+				"companyname" :  "INFOSYS BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/AWDCKKD/INFOSYS BPM.pdf"
+			}]
+	},
+	{
+		"branchname": "Bschool Surampalem",
+		"branchid": 24,
+        "submenu": [      	
+			{
+				"selectcount" : 5,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/BSCHOOL-SURAMPALEM/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "ADP",
+				"imageurl"		:	"logos/ADP.png",
+				"pdfpath"     : "downloads/2021-22/BSCHOOL-SURAMPALEM/ADP.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "BYJUS",
+				"imageurl"		:	"logos/byju.png",
+				"pdfpath"     : "downloads/2021-22/BSCHOOL-SURAMPALEM/BYJU'S.pdf"
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/BSCHOOL-SURAMPALEM/CSS CORP.pdf"
+			},
+			{
+				"selectcount" : 11,
+				"companyname" :  "MEDIA MINT",
+				"imageurl"		:	"logos/Mediamint.png",
+				"pdfpath"     : "downloads/2021-22/BSCHOOL-SURAMPALEM/MEDIAMINT.pdf"  
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "MIRACLE",
+				"imageurl"		:	"logos/Miracle-Software-Systems.png",
+				"pdfpath"     : "downloads/2021-22/BSCHOOL-SURAMPALEM/MIRACLE.pdf"  
+			},
+			{
+				"selectcount" : 17,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/BSCHOOL-SURAMPALEM/SUTHERLANDS.pdf"
+			},
+			{
+				"selectcount" : 9,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/BSCHOOL-SURAMPALEM/TCS.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "UNSCHOOL",
+				"imageurl"		:	"logos/unschool.png",
+				"pdfpath"     : "downloads/2021-22/BSCHOOL-SURAMPALEM/UNSCHOOL.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/BSCHOOL-SURAMPALEM/WIPRO.pdf"
+			}]
+	},
+	{
+		"branchname": "Rajahmundry",
+		"branchid": 3,
+        "submenu": [            
+			{
+				"selectcount" : 48,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "ATOS SYNTEL",
+				"imageurl"		:	"logos/AtosSyntel.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/ATOS-SYNTEL.pdf"  
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "BRIGHT CHAMPS",
+				"imageurl"		:	"logos/BrightChamps.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/BRIGHT-CHAMPS.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "FRACTAL",
+				"imageurl"		:	"logos/fractial.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/FRACTAL.pdf"  
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/KPIT.pdf"  
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "MEDIA MINT",
+				"imageurl"		:	"logos/Mediamint.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/MEDIAMINT.pdf"  
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "MIRACLE",
+				"imageurl"		:	"logos/Miracle-Software-Systems.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/MIRACLE.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "SANKEY SOLUTIONS",
+				"imageurl"		:	"logos/SankeySolutions.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/SANKEY.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/VIRTUSA.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/WiproSetup.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/WIPRO-STEP.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "ZOHO",
+				"imageurl"		:	"logos/zoho.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/ZOHO.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "ADP",
+				"imageurl"		:	"logos/ADP.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/ADP.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/ATOS-GLOBAL.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "BYJUS",
+				"imageurl"		:	"logos/byju.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/BYJUS.pdf"
+			},
+			{
+				"selectcount" : 44,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/CAPGEMINI.pdf"
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/CSS CORP.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "WIPRO WILP",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/WIPRO-STEP.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/DELOITTE.pdf"
+			}, 
+			{
+				"selectcount" : 15,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/IBM.pdf"
+			},
+			{
+				"selectcount" : 21,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/ILM.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "INFOSYS IT",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/INFOSYS IT.pdf"
+			},
+			{
+				"selectcount" : 261,
+				"companyname" :  "INFOSYS BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/INFOSYS-BPM.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "L&T ECC",
+				"imageurl"		:	"logos/l-and-t-ecc.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/L&T-ECC.pdf"
+			},
+			{
+				"selectcount" : 20,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/LTI.pdf"
+			},
+			{
+				"selectcount" : 18,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/SUTHERLAND.pdf"
+			},
+			{
+				"selectcount" : 17,
+				"companyname" :  "TCS BPS",
+				"imageurl"		:	"logos/TcsBps.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/TCS-BPS.pdf"
+			},
+			{
+				"selectcount" : 79,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/TCS-IT.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "UNSCHOOL",
+				"imageurl"		:	"logos/unschool.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/UNSCHOOL.pdf"
+			},
+			{
+				"selectcount" : 142,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/ADCRJY/WIPRO.pdf"
+			}]
+	},
+	{
+		"branchname": "Surampalem Forensic",
+		"branchid": 16,
+        "submenu": [             
+            {
+				"selectcount" : 7,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2020-21/ADCSRPM/TCS-converted.pdf"
+			}]
+	},
+	{
+		"branchname": "Gopalapatnam",
+		"branchid": 5,
+        "submenu": [             
+            {
+				"selectcount" : 10,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/CSS CORP.pdf"
+			},
+			{
+				"selectcount" : 14,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/CAPGEMINI.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/DELOITTE.pdf"
+			}, 
+			{
+				"selectcount" : 2,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/IBM.pdf"
+			},
+			{
+				"selectcount" : 11,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/ILM.pdf"
+			},
+			{
+				"selectcount" : 120,
+				"companyname" :  "Infosys BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/INFOSYS BPM.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "INFOSYS IT",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/INFOSYS IT.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "L&T ECC",
+				"imageurl"		:	"logos/l-and-t-ecc.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/L&T ECC.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/SUTHERLAND.pdf"
+			},
+			{
+				"selectcount" : 14,
+				"companyname" :  "TCS BPM",
+				"imageurl"		:	"logos/TcsBpm.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/TCS BPM.pdf"
+			},
+			{
+				"selectcount" : 18,
+				"companyname" :  "TCS IT",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/TCS IT.pdf"
+			},
+			{
+				"selectcount" : 16,
+				"companyname" :  "TEKWISSEN",
+				"imageurl"		:	"logos/TEKWISSEN.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/TEKWISSEN.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "UNSCHOOL",
+				"imageurl"		:	"logos/unschool.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/UNSCHOOL.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "VALUE MOMENTUM",
+				"imageurl"		:	"logos/valuemomentem.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/VALUE MOMENTAM.pdf"
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 87,
+				"companyname" :  "AllSEC TECHNOLGIES",
+				"imageurl"		:	"logos/AllsecTechnologies.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/ALLSEC Technologies.pdf"  
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "ATOS SYNTEL",
+				"imageurl"		:	"logos/AtosSyntel.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/Atos Syntel.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "ITC",
+				"imageurl"		:	"logos/Itc.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/ITC.pdf"  
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/KPIT.pdf"  
+			},
+			{
+				"selectcount" : 38,
+				"companyname" :  "L&T INFOTECH",
+				"imageurl"		:	"logos/L&TInfotech.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/L&T INFOTECH.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "PENNANT",
+				"imageurl"		:	"logos/Pennant.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/PENNANT.pdf"  
+			}, 
+			{
+				"selectcount" : 3,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/VIRTUSHA.pdf"  
+			},
+			{
+				"selectcount" : 23,
+				"companyname" :  "VISWANADH AVENUES",
+				"imageurl"		:	"logos/ViswanadhAvenues.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/VISWANADHA AVENUS.pdf"  
+			},
+			{
+				"selectcount" : 45,
+				"companyname" :  "WIPRO WILP",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/ADCGPT/WIPRO WILP.pdf"
+			}]
+    },
+	{
+		"branchname": "Asilmetta",
+		"branchid": 6,
+        "submenu": [      
+			{
+				"selectcount" : 21,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/Accenture.pdf"  
+			},       
+			{
+				"selectcount" : 19,
+				"companyname" :  "AllSEC TECHNOLGIES",
+				"imageurl"		:	"logos/AllsecTechnologies.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCASL/ALLSEC.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "ATOS SYNTEL",
+				"imageurl"		:	"logos/AtosSyntel.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCASL/ATOS SYNTEL.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "FRACTAL",
+				"imageurl"		:	"logos/fractial.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/FRACTAL.pdf"  
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "ICICI",
+				"imageurl"		:	"logos/ICICI.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/ICICI.pdf"  
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/KPIT.pdf"  
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "PENNANT",
+				"imageurl"		:	"logos/Pennant.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/PENNANT TECH.pdf"  
+			}, 
+			{
+				"selectcount" : 1,
+				"companyname" :  "SANKEY SOLUTIONS",
+				"imageurl"		:	"logos/SankeySolutions.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCASL/SANKEY SOLUTIONS.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "VISWANADH AVENUES",
+				"imageurl"		:	"logos/ViswanadhAvenues.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCASL/VISWANADH AVENUE.pdf"  
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/VIRTUSA.pdf"  
+			},
+            {
+				"selectcount" : 29,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/CAPGEMINI.pdf"
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCASL/CSSCORP.pdf"
+			},
+			{
+				"selectcount" : 9,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/DELOITTE.pdf"
+			}, {
+				"selectcount" : 1,
+				"companyname" :  "Genpact",
+				"imageurl"		:	"logos/genpact.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/GENPACT.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/IBM.pdf"
+			},
+			{
+				"selectcount" : 17,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/ILM.pdf"
+			},
+			{
+				"selectcount" : 86,
+				"companyname" :  "Infosys BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/INFOSYS BPM.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "INFOSYS IT",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/INFOSYS IT.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "L & T ECC",
+				"imageurl"		:	"logos/l-and-t-ecc.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/L & T ECC.pdf"
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/LTI.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "TCS BPS",
+				"imageurl"		:	"logos/TcsBps.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/TCS BPS.pdf"
+			},
+			{
+				"selectcount" : 32,
+				"companyname" :  "TCS IT",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/TCS IT.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "Tech Mahindra",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/TECH MAHINDRA.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "TEKWISSEN",
+				"imageurl"		:	"logos/TEKWISSEN.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCASL/TEKWISSEN.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "UNSCHOOL",
+				"imageurl"		:	"logos/unschool.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/UNSCHOOL.pdf"
+			}, 
+			{
+				"selectcount" : 25,
+				"companyname" :  "VALUE MOMENTUM",
+				"imageurl"		:	"logos/valuemomentem.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/VALUE MOMENTUM.pdf"
+			},
+			{
+				"selectcount" : 118,
+				"companyname" :  "WIPRO WILP",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL/WIPRO WILP.pdf"
+			}]
+	},
+	{
+		"branchname": "Kakinada Computer Science",
+		"branchid": 23,
+        "submenu": [        
+			{
+				"selectcount" : 1,
+				"companyname" :  "ADP",
+				"imageurl"		:	"logos/ADP.png",
+				"pdfpath"     : "downloads/2021-22/ASCS/ADP.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/ASCS/ATOS.pdf"
+			},
+			{
+				"selectcount" : 16,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/ASCS/CAPGEMINI.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/ASCS/CSS CORP.pdf"
+			},
+            {
+				"selectcount" : 8,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/ASCS/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/ASCS/IBMKYNDRY.pdf"
+			},
+			{
+				"selectcount" : 44,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/ASCS/INFOSYS IBM.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/ASCS/INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 7,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2021-22/ASCS/LTI.pdf"
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/ASCS/TCS.pdf"
+			},
+			{
+				"selectcount" : 34,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/ASCS/WIPRO.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ASCS/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/ASCS/VIRTUSA.pdf"  
+			}]
+    },
+	{
+		"branchname": "Kakinada Bschool",
+		"branchid": 9,
+        "submenu": [        
+			{
+				"selectcount" : 12,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ASMS/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "ADP",
+				"imageurl"		:	"logos/ADP.png",
+				"pdfpath"     : "downloads/2021-22/ASMS/ADP.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "BYJUS",
+				"imageurl"		:	"logos/byju.png",
+				"pdfpath"     : "downloads/2021-22/ASMS/BYJUS.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/ASMS/CSS CORP.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2021-22/ASMS/ILM.pdf"
+			},
+			{
+				"selectcount" : 108,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/ASMS/INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 20,
+				"companyname" :  "MEDIA MINT",
+				"imageurl"		:	"logos/Mediamint.png",
+				"pdfpath"     : "downloads/2021-22/ASMS/MEDIA MINT.pdf"  
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "MIRACLE",
+				"imageurl"		:	"logos/Miracle-Software-Systems.png",
+				"pdfpath"     : "downloads/2021-22/ASMS/MIRACLE SOFTWARE.pdf"  
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "MUTHOOT",
+				"imageurl"		:	"logos/Muthoot.png",
+				"pdfpath"     : "downloads/2021-22/ASMS/MUTHOOT.pdf"  
+			},
+			{
+				"selectcount" : 29,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/ASMS/SUTHERLAND.pdf"
+			},
+			{
+				"selectcount" : 14,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/ASMS/TCS.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "UNSCHOOL",
+				"imageurl"		:	"logos/unschool.png",
+				"pdfpath"     : "downloads/2021-22/ASMS/UNSCHOOL.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/ASMS/WIPRO.pdf"
+			}]
+	},
+	{
+		"branchname": "Women's Srikakulam",
+		"branchid": 22,
+        "submenu": [             
+            {
+				"selectcount" : 17,
+				"companyname" :  "DEILOTTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/DEILOTTE.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/IBM.pdf"
+			}, 
+			{
+				"selectcount" : 60,
+				"companyname" :  "WIPRO ILP",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/WIPRO ILP.pdf"
+			},
+			{
+				"selectcount" : 13,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 120,
+				"companyname" :  "INFOSYS BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/INFOSYS BPM.pdf"
+			},
+			{
+				"selectcount" : 34,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/CAPGEMINI.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "KPIT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/KPIT.pdf"
+			}, 
+			{
+				"selectcount" : 60,
+				"companyname" :  "WIPRO ILP",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/WIPRO ILP.pdf"
+			},
+			{
+				"selectcount" : 40,
+				"companyname" :  "TCS - IT",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/TCS - IT.pdf"
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "TCS BPS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/TCS BPS.pdf"
+			},
+			{
+				"selectcount" : 33,
+				"companyname" :  "AllSEC TECHNOLGIES",
+				"imageurl"		:	"logos/AllsecTechnologies.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/ALL SEC TECHNOLOGIES.pdf"  
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "TEKWISSEN",
+				"imageurl"		:	"logos/TEKWISSEN.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/TEKWISSEN.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/ATOS GLOBAL.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "BRIGHT CHAMP",
+				"imageurl"		:	"logos/BrightChamps.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/BRIGHT CHAMP.pdf"  
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/CSS CORP.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "ICICI",
+				"imageurl"		:	"logos/ICICI.png",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/ICICI.pdf"  
+			},
+			{
+				"selectcount" : 26,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/ILM.pdf"
+			},
+			{
+				"selectcount" : 16,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/LTI.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/SUTHERLAND GLOBAL.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/VIRTUSA.pdf"  
+			},
+			{
+				"selectcount" : 19,
+				"companyname" :  "VISWANADH AVENUES",
+				"imageurl"		:	"logos/ViswanadhAvenues.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCSKLM/Viswanath Avenues.pdf"  
+			}]
+	},
+	{
+		"branchname": "Amalapuram",
+		"branchid": 10,
+        "submenu": [       
+			{
+				"selectcount" : 19,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "FRACTAL",
+				"imageurl"		:	"logos/fractial.png",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/FRACTAL.pdf"  
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/KPIT.pdf"  
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "QUIXY",
+				"imageurl"		:	"logos/Quixy.png",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/QUIXY.pdf"  
+			},
+			{
+				"selectcount" : 41,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/CAPGEMINI.pdf"
+			},      
+			{
+				"selectcount" : 10,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/ATOS GLOBAL.pdf"
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/CSSCORP.pdf"
+			},
+			{
+				"selectcount" : 23,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/IBM.pdf"
+			},
+			{
+				"selectcount" : 42,
+				"companyname" :  "TCS IT",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/TCS IT.pdf"
+			},
+			{
+				"selectcount" : 11,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/LTI.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "MPHASIS",
+				"imageurl"		:	"logos/mphasis.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/MPHASIS.pdf"
+			},
+			{
+				"selectcount" : 15,
+				"companyname" :  "TCS BPS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/TCS BPS.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "UNSCHOOL",
+				"imageurl"		:	"logos/unschool.png",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/UNSCHOOL.pdf"
+			},
+			{
+				"selectcount" : 85,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/ADCAMP/WIPRO.pdf"
+			}]
+	},
+	{
+		"branchname": "Asilmetta Bschool",
+		"branchid": 17,
+        "submenu": [
+			{
+				"selectcount" : 34,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL-BSCHOOL/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 61,
+				"companyname" :  "AllSEC TECHNOLGIES",
+				"imageurl"		:	"logos/AllsecTechnologies.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCASL-BSCHOOL/ALLSEC TECHNOLOGIES.pdf"  
+			},
+			{
+				"selectcount" : 24,
+				"companyname" :  "ICICI",
+				"imageurl"		:	"logos/ICICI.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL-BSCHOOL/ICICI.pdf"  
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "INTELLIPAAT",
+				"imageurl"		:	"logos/Intellipaat.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL-BSCHOOL/INTELLIPAAT.pdf"  
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "BYJUS",
+				"imageurl"		:	"logos/byju.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL-BSCHOOL/BYJUS.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCASL-BSCHOOL/CSS CORP.pdf"
+			},
+			{
+				"selectcount" : 41,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL-BSCHOOL/ILM.pdf"
+			},
+			{
+				"selectcount" : 116,
+				"companyname" :  "Infosys BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL-BSCHOOL/INFOSYS BPM.pdf"
+			},
+			{
+				"selectcount" : 52,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL-BSCHOOL/SUTHERLAND.pdf"
+			},
+			{
+				"selectcount" : 20,
+				"companyname" :  "TCS BPM",
+				"imageurl"		:	"logos/TcsBpm.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL-BSCHOOL/TCS BPM.pdf"
+			},
+			{
+				"selectcount" : 21,
+				"companyname" :  "TEKWISSEN",
+				"imageurl"		:	"logos/TEKWISSEN.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCASL-BSCHOOL/TEKWISSEN.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "UNSCHOOL",
+				"imageurl"		:	"logos/unschool.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL-BSCHOOL/UNSCHOOL.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/ADCASL-BSCHOOL/WIPRO STEP UP.pdf"
+			}]
+	},
+	{
+		"branchname": "Bhimavaram",
+		"branchid": 11,
+        "submenu": [     
+			{
+				"selectcount" : 89,
+				"companyname" :  "Infosys BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/INFOSYS BPM.pdf"
+			},
+			{
+				"selectcount" : 24,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/WIPRO.pdf"
+			},       
+			{
+				"selectcount" : 18,
+				"companyname" :  "TEACHNOOK",
+				"imageurl"		:	"logos/Techook.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/TEACHNOOK.pdf"
+			},
+			{
+				"selectcount" : 18,
+				"companyname" :  "TCS IT",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/TCS_IT.pdf"
+			},
+			{
+				"selectcount" : 15,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/ILM.pdf"
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/CAPGEMINI.pdf"
+			},
+            {
+				"selectcount" : 9,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "S V ENTERPRISES",
+				"imageurl"		:	"logos/Sventerprises.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/S V ENTERPRISES.pdf"  
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "L&T INFRA",
+				"imageurl"		:	"logos/L&TInfra.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/L&T INFRA.pdf"  
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "INTELLIPAAT",
+				"imageurl"		:	"logos/Intellipaat.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/INTELLIPAAT.pdf"  
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "CTRLS+CLOUD",
+				"imageurl"		:	"logos/Ctrls+cloud.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/CTLS +CLOUD C.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "OPTIM",
+				"imageurl"		:	"logos/Optim.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/OPTIM.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "ADP",
+				"imageurl"		:	"logos/ADP.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/ADP.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "AMAZON",
+				"imageurl"		:	"logos/amazon.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/AMAZON.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/ATOS GLOBAL.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "AXIS BANK",
+				"imageurl"		:	"logos/AxisBank.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/AXIS BANK.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "BRIGHT CHAMPS",
+				"imageurl"		:	"logos/BrightChamps.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/BRIGHT CHAMPS.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/KPIT.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "SANKEY SOLUTIONS",
+				"imageurl"		:	"logos/SankeySolutions.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/SANKEY SOLUTIONS.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "TEKWISSEN",
+				"imageurl"		:	"logos/TEKWISSEN.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/TEKWISSEN.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "UNSCHOOL",
+				"imageurl"		:	"logos/unschool.png",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/UNSCHOOL.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "VERZEO",
+				"imageurl"		:	"logos/Verzeo.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCBVM/VERZEO.pdf"
+			}]
+	},
+	{
+		"branchname": "Sai Aditya Bhimavaram",
+		"branchid": 25,
+        "submenu": [        
+			{
+				"selectcount" : 16,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "AMAZON",
+				"imageurl"		:	"logos/amazon.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/AMAZON.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/ATOSGLOBAL.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "ATOS SYNTEL",
+				"imageurl"		:	"logos/AtosSyntel.jpg",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/ATOSSYNTEL.pdf"
+			},
+			{
+				"selectcount" : 25,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/CAPGEMINI.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/CSSCORP.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "CTRL CLOUD4C",
+				"imageurl"		:	"logos/Cloud4c.jpg",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/CTRLCLOUD4C.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/DELOITTE_SADCBCM.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "DXE_TECHNOLOGY",
+				"imageurl"		:	"logos/Dxc_Tech.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/DXC.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "FRACTAL",
+				"imageurl"		:	"logos/fractial.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/FRACTALANALYTICS.pdf"  
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/HETERO DRUGS.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "HEXAWARE",
+				"imageurl"		:	"logos/hexaware.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/HEXAWARE.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "HITACHI",
+				"imageurl"		:	"logos/Hitachi.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/HITACHI.pdf"  
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/IBM.pdf"
+			},
+			{
+				"selectcount" : 18,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/ILM.pdf"
+			},
+			{
+				"selectcount" : 23,
+				"companyname" :  "Infosys IT",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/INFOSYS IT.pdf"
+			},
+			{
+				"selectcount" : 125,
+				"companyname" :  "Infosys BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/INFOSYSBPM.pdf"
+			}, 
+			
+			{
+				"selectcount" : 16,
+				"companyname" :  "INDIAN HEALTH CARE",
+				"imageurl"		:	"logos/IndianHealthCare.jpg",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/INIDAN HEALTH CARE.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "INTELLIPAAT",
+				"imageurl"		:	"logos/Intellipaat.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/INTELLIPAT.pdf"  
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/KPIT.pdf"  
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "L&T ECC",
+				"imageurl"		:	"logos/l-and-t-ecc.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/L&T ECC.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/LTI.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "MGMOTOR",
+				"imageurl"		:	"logos/MorrisGarages.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/MGMOTOR.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "MIRACLE SOFTWARE",
+				"imageurl"		:	"logos/Miracle-Software-Systems.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/MIRACLE SOFTWARE.pdf"  
+			},
+			{
+				"selectcount" : 25,
+				"companyname" :  "TCS-IT",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/TCS-IT.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "TEKWISSEN",
+				"imageurl"		:	"logos/TEKWISSEN.jpg",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/TEKWISSEN.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/VIRTUSA.pdf"  
+			}, 
+			{
+				"selectcount" : 1,
+				"companyname" :  "JUST DAIL",
+				"imageurl"		:	"logos/justdial.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/JUST DIAL.pdf"  
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "WIPRO STEPUP",
+				"imageurl"		:	"logos/WiproSetup.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/WIPROSTEP UP.pdf"
+			},
+			{
+				"selectcount" : 59,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/WIPRO.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "MRF",
+				"imageurl"		:	"logos/mrf.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/MRF.pdf"
+			},
+			{
+				"selectcount" : 15,
+				"companyname" :  "TCS BPM",
+				"imageurl"		:	"logos/TcsBpm.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/TCSBPM.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "DIVIS LAB",
+				"imageurl"		:	"logos/DivisLab.png",
+				"pdfpath"     : "downloads/2021-22/SADCBVM/DIVIS LAB.pdf"
+			} 
+		
+		]
+	},
+	{
+		"branchname": "Palakollu",
+		"branchid": 7,
+        "submenu": [
+			{
+				"selectcount" : 198,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 82,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/ADCPKL/WIPRO.pdf"
+			},
+			{
+				"selectcount" : 32,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/CAPGEMINI.pdf"
+			},
+			{
+				"selectcount" : 13,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/ATOS GLOBAL.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "BYJUS",
+				"imageurl"		:	"logos/byju.png",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/BYJUS & TOPPR.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/CSS.pdf"
+			}, 
+			{
+				"selectcount" : 5,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/IBM.pdf"
+			},
+			{
+				"selectcount" : 11,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/ILM.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "L & T ECC",
+				"imageurl"		:	"logos/l-and-t-ecc.png",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/L & T ECC.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/LTI.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "MIRACLE",
+				"imageurl"		:	"logos/Miracle-Software-Systems.png",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/MIRACLE.pdf"  
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "RELIANCE RETAIL",
+				"imageurl"		:	"logos/reliance-retail.png",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/RELIANCE RETAIL.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/SUTHERLAND.pdf"
+			},
+			{
+				"selectcount" : 28,
+				"companyname" :  "TCS IT",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/TCS IT.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "TEKWISSEN",
+				"imageurl"		:	"logos/TEKWISSEN.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/TECKWISSEN.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/ADCPKL/VIRTUSA.pdf"  
+			}]
+	},
+	{
+		"branchname": "Eluru",
+		"branchid": 13,
+        "submenu": [
+			{
+				"selectcount" : 11,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "ADP",
+				"imageurl"		:	"logos/ADP.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/ADP.pdf"
+			},
+			{
+				"selectcount" : 33,
+				"companyname" :  "WIPRO WILP",
+				"imageurl"		:	"logos/WiproSetup.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/WIPRO WILP.pdf"
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "TCS IT",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/TCS IT.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCELR/ATOS GLOBAL.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "BYJUS",
+				"imageurl"		:	"logos/byju.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/BYJUS.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/CAPGEMINI.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCELR/CSS CROP.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "FRACTAL",
+				"imageurl"		:	"logos/fractial.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/FRACTAL.pdf"  
+			},
+			{
+				"selectcount" : 15,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/ILM.pdf"
+			},
+			{
+				"selectcount" : 101,
+				"companyname" :  "Infosys BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/INFOSYS BPM.pdf"
+			}, 
+			{
+				"selectcount" : 1,
+				"companyname" :  "Infosys IT",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/INFOSYS IT.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/KPIT.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "L & T ECC",
+				"imageurl"		:	"logos/l-and-t-ecc.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/L & T ECC.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/LTI.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "MIRACLE",
+				"imageurl"		:	"logos/Miracle-Software-Systems.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/MIRACLE SOFTWARES.pdf"  
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/SUTHERLAND.pdf"
+			},
+			{
+				"selectcount" : 13,
+				"companyname" :  "TCS BPS",
+				"imageurl"		:	"logos/TcsBps.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/TCS BPS.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/VIRTUSA.pdf"  
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/ADCELR/WIPRO.pdf"
+			}]
+	},
+	{
+		"branchname": "Gajuwaka",
+		"branchid": 8,
+        "submenu": [    
+			{
+				"selectcount" : 208,
+				"companyname" :  "WIPRO WILP",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/WIPRO WILP.pdf"
+			},
+			{
+				"selectcount" : 32,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 10,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/ATOS GLOBAL.pdf"
+			},
+			{
+				"selectcount" : 19,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/CSS CORP.pdf"
+			},
+			{
+				"selectcount" : 35,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/IBM.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "ITC",
+				"imageurl"		:	"logos/Itc.png",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/ITC.pdf"  
+			},
+			{
+				"selectcount" : 14,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/KPIT.pdf"  
+			},
+			{
+				"selectcount" : 24,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/LTI.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/SUTHERLAND.pdf"
+			},
+			{
+				"selectcount" : 17,
+				"companyname" :  "VALUE MOMENTUM",
+				"imageurl"		:	"logos/valuemomentem.png",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/VALUE MOMENTUM.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/VIRTUSA.pdf"  
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "BYJUS",
+				"imageurl"		:	"logos/byju.png",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/BYJUS.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "L & T ECC",
+				"imageurl"		:	"logos/l-and-t-ecc.png",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/L & T ECC.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "UN SCHOOL",
+				"imageurl"		:	"logos/unschool.png",
+				"pdfpath"     : "downloads/2021-22/ADCGWK/UNSCHOOL.pdf"
+			}]
+	},
+	{
+		"branchname": "Srikakulam",
+		"branchid": 21,
+        "submenu": [             
+            {
+				"selectcount" : 1,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/INFOSYS.pdf"
+			}, 
+			{
+				"selectcount" : 8,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/ILM.pdf"
+			},
+			{
+				"selectcount" : 11,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/WIPRO-ADCSKLM.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "Hetero Drugs",
+				"imageurl"		:	"logos/Hetero-Drugs.png",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/HETRO.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "2",
+				"imageurl"		:	"logos/24-7-ai.jpg",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/Artificial Intelligence.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/TCS.pdf"
+			},
+			{
+				"selectcount" : 115,
+				"companyname" :  "NICE Education",
+				"imageurl"		:	"logos/NICE-Education.png",
+				"pdfpath"     : "downloads/2019-20/ADCSKLM/NICE.pdf"
+			}]
+	},
+	{
+		"branchname": "Tadepalligudem",
+		"branchid": 12,
+        "submenu": [ 
+			{
+				"selectcount" : 1,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/ADCTPG/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 11,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ADCTPG/ACCENTURE.pdf"
+			}, 
+			{
+				"selectcount" : 33,
+				"companyname" :  "WIPRO-IT",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/ADCTPG/WIPRO-IT.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "INFOSYS - IT",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/ADCTPG/INFOSYS-IT.pdf"
+			},
+			{
+				"selectcount" : 13,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/ADCTPG/CAPGEMINI.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCTPG/ATOS-GLOBAL.pdf"
+			},
+			{
+				"selectcount" : 159,
+				"companyname" :  "INFOSYS BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/ADCTPG/INFOSYS-BPM.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "ATOS SYNTEL",
+				"imageurl"		:	"logos/AtosSyntel.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCTPG/ATOS-SYNTEL.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCTPG/CSS-CORP.pdf"
+			},
+			{
+				"selectcount" : 31,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2021-22/ADCTPG/ILM.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2021-22/ADCTPG/LTI.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/ADCTPG/SUTHERLAND.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/ADCTPG/VIRTUSA.pdf"  
+			}]
+	},
+	{
+		"branchname": "Tuni",
+		"branchid": 15,
+        "submenu": [
+			{
+				"selectcount" : 17,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/ACCENTURE.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "ADP",
+				"imageurl"		:	"logos/ADP.png",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/ADP.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/ATOS GLOBAL.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "BYJUS",
+				"imageurl"		:	"logos/byju.png",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/BYJUS.pdf"
+			},
+			{
+				"selectcount" : 36,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/CAPGEMINI.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/CSSCORP.pdf"
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "FRACTAL",
+				"imageurl"		:	"logos/fractial.png",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/FRACTAL.pdf"  
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/IBM.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "INFOSYS - IT",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/INFOSYS.pdf"
+			},
+			{
+				"selectcount" : 129,
+				"companyname" :  "INFOSYS BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/INFOSYS-BPM.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/KPIT.pdf"  
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/LTI.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/SUTHERLAND.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "TCS BPS",
+				"imageurl"		:	"logos/TcsBps.png",
+				"pdfpath"     : "downloads/2021-22/ADCTUN/TCS BPS.pdf"
+			}]
+	},
+	{
+		"branchname": "Women's Gopalapatnam",
+		"branchid": 19,
+        "submenu": [             
+			{
+				"selectcount" : 11,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/atos global.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "BYJUS",
+				"imageurl"		:	"logos/byju.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/byjus.pdf"
+			},
+			{
+				"selectcount" : 54,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/capgemini.pdf"
+			},
+            {
+				"selectcount" : 14,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/css corp.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "TCS BPM",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/tcs bpm.pdf"
+			},
+			{
+				"selectcount" : 45,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/deloitte.pdf"
+			},
+			{
+				"selectcount" : 15,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/ibm.pdf"
+			},
+			{
+				"selectcount" : 16,
+				"companyname" :  "ILM",
+				"imageurl"		:	"logos/ILM.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/ilm.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "Infosys IT",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/infosys it.pdf"
+			}, 
+			{
+				"selectcount" : 28,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/lti.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "UNSCHOOL",
+				"imageurl"		:	"logos/unschool.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/unschool.pdf"
+			},
+			{
+				"selectcount" : 17,
+				"companyname" :  "VALUE MOMENTUM",
+				"imageurl"		:	"logos/valuemomentem.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/value momentum.pdf"
+			},
+			{
+				"selectcount" : 79,
+				"companyname" :  "TCS IT",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/tcs it.pdf"
+			},
+			{
+				"selectcount" : 22,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/accenture.pdf"  
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "AllSEC TECHNOLGIES",
+				"imageurl"		:	"logos/AllsecTechnologies.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/allsec technologies.pdf"  
+			},
+			{
+				"selectcount" : 12,
+				"companyname" :  "ATOS SYNTEL",
+				"imageurl"		:	"logos/AtosSyntel.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/atos syntel.pdf"  
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "BRIGHT CHAMPS",
+				"imageurl"		:	"logos/BrightChamps.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/bright champs.pdf"  
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/kpit.pdf"  
+			},
+			{
+				"selectcount" : 15,
+				"companyname" :  "PENNANT",
+				"imageurl"		:	"logos/Pennant.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/pennant.pdf"  
+			}, 
+			{
+				"selectcount" : 13,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/virtusa.pdf"  
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "VISWANADH AVENUES",
+				"imageurl"		:	"logos/ViswanadhAvenues.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/viswanadha avenues.pdf"  
+			},
+			{
+				"selectcount" : 5,
+				"companyname" :  "FRACTAL",
+				"imageurl"		:	"logos/fractial.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/fractal.pdf"  
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "ICICI",
+				"imageurl"		:	"logos/ICICI.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/icici.pdf"  
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "INTELLIPAAT",
+				"imageurl"		:	"logos/Intellipaat.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/intellipaat.pdf"  
+			},
+			{
+				"selectcount" : 131,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/wipro.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "SANKEY SOLUTIONS",
+				"imageurl"		:	"logos/SankeySolutions.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/sankey solutions.pdf"
+			},
+			{
+				"selectcount" : 189,
+				"companyname" :  "INFOSYS BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/infosys bpm.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/zoho.png",
+				"pdfpath"     : "downloads/2021-22/AWDCGPT/zoho.pdf"
+			}]
+	},
+	{
+		"branchname": "Women's Asilmetta",
+		"branchid": 18,
+        "submenu": [     
+			{
+				"selectcount" : 26,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/ACCENTURE.pdf"  
+			},        
+			{
+				"selectcount" : 32,
+				"companyname" :  "AllSEC TECHNOLGIES",
+				"imageurl"		:	"logos/AllsecTechnologies.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/ALL SEC.pdf"  
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "BRIGHT CHAMPS",
+				"imageurl"		:	"logos/BrightChamps.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/BRIGHT.pdf"  
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/KPIT.pdf"  
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "PENNANT",
+				"imageurl"		:	"logos/Pennant.png",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/PENNANT.pdf"  
+			}, 
+			{
+				"selectcount" : 3,
+				"companyname" :  "TCS BPO",
+				"imageurl"		:	"logos/TcsBpo.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/TCS BPO.pdf"
+			},
+			{
+				"selectcount" : 13,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/VIRTUSA.pdf"  
+			},
+            {
+				"selectcount" : 10,
+				"companyname" :  "ATOS",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/ATOS.pdf"
+			},
+			{
+				"selectcount" : 41,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/CAPGEMINI.pdf"
+			},
+			{
+				"selectcount" : 9,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/CSS.pdf"
+			}, 
+			{
+				"selectcount" : 34,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 48,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/IBM.pdf"
+			},
+			{
+				"selectcount" : 15,
+				"companyname" :  "LTI",
+				"imageurl"		:	"logos/lti.png",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/LTI.pdf"
+			},
+			{
+				"selectcount" : 66,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/TCS-IT.pdf"
+			},
+			{
+				"selectcount" : 27,
+				"companyname" :  "VALUE MOMENTUM",
+				"imageurl"		:	"logos/tech-mahindra.png",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/VALUE MOMENTUM.pdf"
+			},	
+			{
+				"selectcount" : 9,
+				"companyname" :  "VISWANADH AVENUES",
+				"imageurl"		:	"logos/ViswanadhAvenues.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/VISWNADH AVENUE.pdf"  
+			},
+			{
+				"selectcount" : 136,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/AWDCASL/WIPRO.pdf"
+			}]
+	},
+	{
+		"branchname": "Vizianagaram",
+		"branchid": 20,
+        "submenu": [           
+			{
+				"selectcount" : 18,
+				"companyname" :  "ACCENTURE",
+				"imageurl"		:	"logos/Accenture.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/ACCENTURE.pdf"  
+			}, 
+			{
+				"selectcount" : 15,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/ATOS_GLOBAL.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "BRIGHT CHAMPS",
+				"imageurl"		:	"logos/BrightChamps.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/BRIGHT CHAMP.pdf"  
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "BYJUS",
+				"imageurl"		:	"logos/byju.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/BYJU'S.pdf"
+			},
+			{
+				"selectcount" : 32,
+				"companyname" :  "CAPGEMINI",
+				"imageurl"		:	"logos/capgemini.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/CAPGEMINI.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "CSS CORP",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/CSS_CORP.pdf"
+			},
+			{
+				"selectcount" : 16,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 1,
+				"companyname" :  "DXE_TECHNOLOGY",
+				"imageurl"		:	"logos/Dxc_Tech.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/DXE_TECHNOLOGY.pdf"
+			},
+			{
+				"selectcount" : 78,
+				"companyname" :  "TCS",
+				"imageurl"		:	"logos/tcs.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/TCS.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "HEXAWARE",
+				"imageurl"		:	"logos/hexaware.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/HEXAWARE.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/IBM.pdf"
+			},
+			{
+				"selectcount" : 200,
+				"companyname" :  "INFOSYS BPM",
+				"imageurl"		:	"logos/infosys-bpm.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/INFOSYS BPM.pdf"
+			},
+			{
+				"selectcount" : 56,
+				"companyname" :  "Infosys",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/INFOSYS IT.pdf"
+			}, 
+			{
+				"selectcount" : 7,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/KPIT.pdf"  
+			},
+			{
+				"selectcount" : 14,
+				"companyname" :  "L&T INFOTECH",
+				"imageurl"		:	"logos/L&TInfotech.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/LTI.pdf"
+			},
+			{
+				"selectcount" : 2,
+				"companyname" :  "MRF",
+				"imageurl"		:	"logos/mrf.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/MRF.pdf"
+			},
+			{
+				"selectcount" : 7,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/SUTHERLAND.pdf"
+			},
+			{
+				"selectcount" : 21,
+				"companyname" :  "TCS BPS",
+				"imageurl"		:	"logos/TcsBps.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/TCS BPS.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "TEKWISSEN",
+				"imageurl"		:	"logos/TEKWISSEN.jpg",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/TEKWISSION.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "UNSCHOOL",
+				"imageurl"		:	"logos/unschool.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/UNSCHOOL.pdf"
+			},
+			{
+				"selectcount" : 20,
+				"companyname" :  "VALUE MOMENTUM",
+				"imageurl"		:	"logos/valuemomentem.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/VALUE MOMENTUM.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/VIRTUSA.pdf"  
+			},
+			{
+				"selectcount" : 120,
+				"companyname" :  "WIPRO",
+				"imageurl"		:	"logos/wipro.png",
+				"pdfpath"     : "downloads/2021-22/ADCVZM/WIPRO.pdf"
+			}]
+	},
+	{
+		"branchname": "Women's Rajahmundry",
+		"branchid": 4,
+        "submenu": [     
+			{
+				"selectcount" : 5,
+				"companyname" :  "IBM",
+				"imageurl"		:	"logos/IBM.png",
+				"pdfpath"     : "downloads/2021-22/AWDCRJY/IBM.pdf"
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "KIPT",
+				"imageurl"		:	"logos/Kpit.png",
+				"pdfpath"     : "downloads/2021-22/AWDCRJY/KPIT.pdf"  
+			},
+			{
+				"selectcount" : 13,
+				"companyname" :  "MIRACLE",
+				"imageurl"		:	"logos/Miracle-Software-Systems.png",
+				"pdfpath"     : "downloads/2021-22/AWDCRJY/MIRAACLE.pdf"  
+			},
+			{
+				"selectcount" : 6,
+				"companyname" :  "VIRTUSA",
+				"imageurl"		:	"logos/Virtusa.png",
+				"pdfpath"     : "downloads/2021-22/AWDCRJY/VIRTUSA.pdf"  
+			},
+			{
+				"selectcount" : 11,
+				"companyname" :  "ADP",
+				"imageurl"		:	"logos/ADP.png",
+				"pdfpath"     : "downloads/2021-22/AWDCRJY/ADP.pdf"
+			},
+			{
+				"selectcount" : 22,
+				"companyname" :  "ATOS GLOBAL",
+				"imageurl"		:	"logos/atos-global.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCRJY/ATOS GLOBAL.pdf"
+			},
+			{
+				"selectcount" : 8,
+				"companyname" :  "CSS CORPORATION",
+				"imageurl"		:	"logos/css-corp.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCRJY/CSS CORP.pdf"
+			},
+			{
+				"selectcount" : 27,
+				"companyname" :  "DELOITTE",
+				"imageurl"		:	"logos/deloitte.png",
+				"pdfpath"     : "downloads/2021-22/AWDCRJY/DELOITTE.pdf"
+			},
+			{
+				"selectcount" : 4,
+				"companyname" :  "INFOSYS IT",
+				"imageurl"		:	"logos/infosys.png",
+				"pdfpath"     : "downloads/2021-22/AWDCRJY/INFOSYS IT.pdf"
+			},
+			{
+				"selectcount" : 38,
+				"companyname" :  "L&T INFOTECH",
+				"imageurl"		:	"logos/L&TInfotech.jpg",
+				"pdfpath"     : "downloads/2021-22/AWDCRJY/L&T INFOTECH.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "SUTHERLAND",
+				"imageurl"		:	"logos/Sutherland.png",
+				"pdfpath"     : "downloads/2021-22/AWDCRJY/SUTHERLAND.pdf"
+			},
+			{
+				"selectcount" : 3,
+				"companyname" :  "UNSCHOOL",
+				"imageurl"		:	"logos/unschool.png",
+				"pdfpath"     : "downloads/2021-22/AWDCRJY/UNSCHOOL.pdf"
+			}]
+	}
+]
